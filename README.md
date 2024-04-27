@@ -1,6 +1,6 @@
 ## Hey there! 👋 I'm Karan Patel a Software Engineer, Specializing in ReactJs, NextJs, and WordPress ( Theme Development )
 
-#### I'm a software engineer previously working at [Axioned](https://axioned.com/).
+#### I'm a software engineer previously worked at [Axioned](https://axioned.com/).
 
 ---
 
