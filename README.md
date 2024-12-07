@@ -6,7 +6,7 @@
 ---
 
 ### **💫 About Me:**
-I'm passionate about building user-friendly interfaces and web experiences. I started my web development journey by crafting websites with the fundamentals of HTML, CSS, and JS. This experience led me to Axioned, where I worked as a Software Engineer and honed my skills in **_ReactJS_**, **_NextJS_**, **_SASS_**, **Tailwind**, and **_WordPress_**. I also know **_TypeScript_**, **_Prisma_**, **_GA/GTM_** and **_Shopify_**. I'm constantly exploring new tools, technologies and libraries to stay ahead of the curve. Beyond coding, I'm also proficient in design tools like **_Figma_**, **_Lightroom_**, and **_Photoshop_**. Looking for a developer who can bring your vision to life? I'd love to collaborate and contribute my skills to your team. Let's connect!
+I'm passionate about building user-friendly interfaces and web experiences. I started my web development journey by crafting websites with the fundamentals of HTML, CSS, and JS. This experience led me to Axioned, where I worked as a Software Engineer and honed my skills in **_ReactJS_**, **_NextJS_**, **_SASS_**, **Tailwind**, and **_WordPress_**. After Axioned, I worked at Mastek as a Senior ReactJS Developer, where I further refined my expertise in creating scalable and high-performance web applications. I also know **_TypeScript_**, **_Prisma_**, **_GA/GTM_** and **_Shopify_**. I'm constantly exploring new tools, technologies and libraries to stay ahead of the curve. Beyond coding, I'm also proficient in design tools like **_Figma_**, **_Lightroom_**, and **_Photoshop_**. Looking for a developer who can bring your vision to life? I'd love to collaborate and contribute my skills to your team. Let's connect!
 
 ### **💻 Tech Stack:**
 
