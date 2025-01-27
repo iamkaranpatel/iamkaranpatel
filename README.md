@@ -1,7 +1,7 @@
 ## Hey there! 👋 I'm Karan Patel a Software Engineer, Specializing in ReactJs, NextJs, and WordPress ( Theme Development )
 [Portfolio](https://karanp.vercel.app/)
 
-#### I'm a software engineer at [Mastek](https://www.mastek.com/) previously at [Axioned](https://axioned.com/).
+#### I'm a Senior ReactJS Developer at [Mastek](https://www.mastek.com/) previously worked as software engineer at [Axioned](https://axioned.com/).
 
 ---
 
